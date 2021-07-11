@@ -1,0 +1,14 @@
+@charset "utf-8";
+.container-fluid {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container-fluid .card.text-center.col-md-4.col-lg-12 {
+    margin-top: 20px;
+}
+.card.col-md-4.col-lg-12 .card-body .card-text {
+    color: #38536D;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: justify;
+
+}
